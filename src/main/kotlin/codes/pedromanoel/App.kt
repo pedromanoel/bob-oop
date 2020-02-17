@@ -11,5 +11,5 @@ class App {
 }
 
 fun main(args: Array<String>) {
-    println(App().greeting)
+    print(Verse.sing(10))
 }
